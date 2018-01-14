@@ -5,3 +5,5 @@ y = 2
 print(x + y)
 z=3
 print(x*z)
+a=9
+print(a)
