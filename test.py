@@ -7,3 +7,5 @@ z=3
 print(x*z)
 a=9
 print(a)
+b=7
+print(b)
