@@ -1,5 +1,5 @@
 print("test...")
 x = 1 + 1
 print(x)
-y = 2
-print(x + y)
+y = 3
+print x 
